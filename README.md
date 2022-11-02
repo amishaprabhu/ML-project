@@ -1,4 +1,4 @@
-# ML-project
+# Machine Learning-project
 Retail Price optimization project
 
 A retail price optimization strategy that will take into account consumer
